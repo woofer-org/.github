@@ -12,7 +12,7 @@ collection.  Using a configurable algorithm in combination with gathering
 statistics, the software can, over time, choose songs for you without any manual
 input.  The software is built to run on a variety of environments and to respect
 the freedom of the end-user.  Because it is so fundamentally different compared
-to other music players, it certainly isn't be suitable for everyone.
+to other music players, it certainly isn't suitable for everyone.
 
 ## Key-features
 
